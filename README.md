@@ -60,6 +60,8 @@ try {
 ···
 
 ### 实验结果
-
+![image](https://github.com/10shi104shi414shi1440shi40/-5/blob/main/e5f1cc38bcba65f1e2c4b81db23da6c.png)
+![image](https://github.com/10shi104shi414shi1440shi40/-5/blob/main/c3aa6bc63e785026c98209926f7bb7d.png)
+![image](https://github.com/10shi104shi414shi1440shi40/-5/blob/main/1e96337e7b5981a74fe91ce7dee899b.png)
 ### 实验感想
 这次实验让我学会了如何创建读取写入输出文本文件，在核心代码中第一个代码将字符串覆盖文本文件中的内容，而第二块代码则是将字符串添加到文本文件末尾端，实现添加内容。本次实验让我对这些内容有了深刻的理解，并且提高了我对它们影用的能力。将理论知识用于实践才能提高。
